@@ -22,12 +22,12 @@
       I build practical systems across data science and software engineering. My work spans R analysis, Java desktop apps, Python ML systems, dashboards, and deployment-focused applications.
     </td>
     <td width="50%" valign="top">
-      I’m especially focused on automatic ECIB data validation, data cleaning, report generation, and deployable projects that are easy to explain and easy to use.
+      I’m especially focused on data validation, ML workflows, reporting automation, cloud deployment, and deployable projects that are easy to explain and easy to use.
     </td>
   </tr>
 </table>
 
-• 🔭 Current focus: ECIB validation automation, ML workflows, and polished portfolio projects<br>
+• 🔭 Current focus: ECIB data validation, ML workflows, and polished portfolio projects<br>
 • 🎮 Building games in x86 Assembly (DOS) - because why not?<br>
 • 🤖 Exploring machine learning, neural networks, spam classification, and data science<br>
 • 📱 Crafting mobile experiences with React Native and Expo<br>
@@ -135,12 +135,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiqabbasi202&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/faiqabbasi202/faiqabbasi202/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </div>
 
 ## 🛠 TECH STACK
