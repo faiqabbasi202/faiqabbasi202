@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  📧 your.email@gmail.com<br>
+  📧 faiq.abbasi2005@gmail.com<br>
   📍 Islamabad, Pakistan<br>
   🔗 github.com/faiqabbasi202<br>
-  🔗 linkedin.com/in/your-linkedin<br>
+  🔗 linkedin.com/in/faiq-abbasi<br>
 </p>
 
 ---
@@ -114,8 +114,8 @@ Communication, problem solving, teamwork, time management
 ## Connect With Me
 
 - GitHub: github.com/faiqabbasi202
-- LinkedIn: linkedin.com/in/your-linkedin
-- Email: your.email@gmail.com
+- LinkedIn: linkedin.com/in/faiq-abbasi
+- Email: faiq.abbasi2005@gmail.com
 
 ---
 
