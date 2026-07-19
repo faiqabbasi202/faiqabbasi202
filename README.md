@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f1117,100:111827&height=140&section=header&text=Hi%20there!%20I'm%20Faiq%20Abbasi&fontColor=f9fafb&fontSize=34&fontAlignY=42&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descColor=cbd5e1&descAlignY=62&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f1117,100:111827&height=140&section=header&text=Hi%20there!%20I'm%20Faiq%20Abbasi&fontColor=f9fafb&fontSize=34&fontAlignY=42&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descColor=cbd5e1&descAlignY=62&descSize=15" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+AI%2FML+%7C+Data+Science;Building+practical+projects+with+clean+deployment+stories;Working+on+ECIB+validation%2C+dashboards%2C+and+ML+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C+AI%2FML+Engineer;Building+impactful+systems+with+machine+learning+and+data;ML+workflows%2C+reporting+automation%2C+and+deployment+ready+projects" alt="Typing SVG" />
 </p>
 
 <p>
@@ -19,19 +19,18 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      I build practical systems across data science and software engineering. My work spans R analysis, Java desktop apps, Python ML systems, dashboards, and deployment-focused applications.
+      I build practical systems across data science and AI/ML. My work spans Python and R analysis, machine learning, data pipelines, dashboards, and deployment-focused applications.
     </td>
     <td width="50%" valign="top">
-      I’m especially focused on data validation, ML workflows, reporting automation, cloud deployment, and deployable projects that are easy to explain and easy to use.
+      I’m especially focused on impactful systems, model development, reporting automation, cloud deployment, and deployable projects that are easy to explain and easy to use.
     </td>
   </tr>
 </table>
 
-• 🔭 Current focus: ECIB data validation, ML workflows, and polished portfolio projects<br>
-• 🎮 Building games in x86 Assembly (DOS) - because why not?<br>
-• 🤖 Exploring machine learning, neural networks, spam classification, and data science<br>
-• 📱 Crafting mobile experiences with React Native and Expo<br>
+• 🔭 Current focus: AI/ML engineering, data science, and portfolio-ready systems<br>
+• 🤖 Exploring machine learning, neural networks, classification, and data-driven decision systems<br>
 • ☁️ Comfortable with cloud and deployment tooling like AWS, Azure, Docker, and MLflow<br>
+• 🧪 Building models, pipelines, reports, and applications that solve real problems<br>
 • 💼 Open to collaboration and opportunities
 
 ## ⭐ LATEST PROJECTS
@@ -40,13 +39,13 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Automatic ECIB Data Validation</strong><br><br>
-      Validation workflow for ECIB data to catch missing fields, mismatched values, and inconsistent records before reporting or analysis.<br><br>
-      <sub>Validation · Data Quality · Automation</sub>
+      Validation system for ECIB data that first checks records against State Bank rules and then validates them internally against bank databases to catch missing fields, mismatched values, and inconsistent records before reporting or analysis.<br><br>
+      <sub>Validation · Data Quality · Rule Checking · Automation</sub>
     </td>
     <td width="50%" valign="top">
       <strong>Baskalyze</strong><br><br>
-      Final-year sports intelligence platform focused on analytics, decision support, and a multi-module product experience.<br><br>
-      <sub>Analytics · Platform Design · Decision Support</sub>
+      Final-year sports intelligence platform focused on analytics, decision support, and a multi-module system for performance insights.<br><br>
+      <sub>Analytics · Decision Support · Platform Design</sub>
     </td>
   </tr>
 </table>
@@ -57,13 +56,13 @@
   <tr>
     <td width="33%" valign="top">
       <strong>Diabetes Prediction Development & Deployment</strong><br><br>
-      Production-oriented ML project covering data prep, model training, API serving, Streamlit UI, and Docker deployment.<br><br>
+      Production-oriented machine learning project for diabetes risk prediction, covering data preparation, model training, API serving, frontend interaction, and containerized deployment.<br><br>
       <sub>Python · FastAPI · Streamlit · MLflow · Docker</sub>
     </td>
     <td width="33%" valign="top">
       <strong>E-Commerce Sales Data Warehouse & Tableau Dashboard</strong><br><br>
-      MySQL star schema, ETL flow, and Tableau reporting for sales analytics and business dashboards.<br><br>
-      <sub>MySQL · ETL · Tableau</sub>
+      End-to-end data warehousing project for e-commerce analytics with MySQL, star-schema modeling, ETL, and Tableau reporting.<br><br>
+      <sub>MySQL · ETL · Tableau · Data Warehousing</sub>
     </td>
     <td width="33%" valign="top">
       <strong>Ignition-Insights</strong><br><br>
@@ -73,50 +72,29 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>Smart Solver AI</strong><br><br>
-      AI-powered equation solver that tackles complex mathematical problems across multiple domains.<br><br>
-      <sub>Python · SymPy</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Email Spam Classification</strong><br><br>
-      Machine learning project using Naive Bayes to classify emails as spam or not spam.<br><br>
-      <sub>Python · Jupyter · Pandas</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>React Native CRUD App</strong><br><br>
-      A mobile CRUD application built with React Native and TypeScript for learning and demonstration purposes.<br><br>
-      <sub>React Native · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Neural Network Visualizer</strong><br><br>
-      Browser-based tool for visualizing neural network forward propagation and learning flow.<br><br>
-      <sub>HTML5 · JavaScript</sub>
-    </td>
-    <td width="33%" valign="top">
       <strong>Bank Management System (Java)</strong><br><br>
-      Java Swing desktop application built with OOP concepts for account and transaction workflows.<br><br>
+      Java Swing desktop application built with OOP concepts for account creation, deposits, withdrawals, transfers, and balance inquiry.<br><br>
       <sub>Java · Swing · OOP</sub>
     </td>
     <td width="33%" valign="top">
       <strong>Titanic Passenger Survival & Fare Prediction (R)</strong><br><br>
-      R scripts for wrangling, logistic regression, linear regression, and K-means clustering on the Titanic dataset.<br><br>
-      <sub>R · Data Cleaning · Modeling</sub>
+      R project for survival prediction, fare prediction, and clustering using data cleaning, feature preparation, and model evaluation.
+      <br><br>
+      <sub>R · Logistic Regression · Linear Regression · K-means</sub>
     </td>
   </tr>
 </table>
 
-> See pinned repos below for live demos and code.
+> Ranked by relevance to my current AI/ML, data science, and applied systems work.
 
 ## 🏆 HIGHLIGHTS
 
 <table width="100%">
   <tr>
-    <td align="center">ECIB Validation Automation</td>
-    <td align="center">Machine Learning & Prediction</td>
+    <td align="center">AI/ML Engineering</td>
+    <td align="center">Data Science & Prediction</td>
     <td align="center">Data Warehousing & BI</td>
-    <td align="center">React / Mobile / Full Stack</td>
+    <td align="center">Cloud & Deployment</td>
   </tr>
 </table>
 
@@ -189,7 +167,7 @@
 
 <div align="center">
 
-"From data validation to AI - building across the full stack of computing."
+"Building impactful data science and AI/ML systems across the stack."
 
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=faiqabbasi202&style=flat-square&color=D85A30&label=Profile+Views" alt="Profile views" /></sub>
 
