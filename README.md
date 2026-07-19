@@ -22,7 +22,7 @@
       <strong>What I’m focused on</strong><br><br>
       - Automatic validation of ECIB data and related checks<br>
       - Better modeling, cleaning, and reporting workflows<br>
-      - Cleaner interfaces for dashboards and small apps
+      - Cleaner interfaces for dashboards and small apps<br>
       - Stronger documentation and deployable portfolio work
     </td>
   </tr>
@@ -31,6 +31,13 @@
 ## Featured Work
 
 <table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="left"><strong>Automatic ECIB Data Validation</strong></div>
+      <p>Validation workflow for ECIB data to catch missing fields, mismatched values, and inconsistent records before reporting or analysis.</p>
+      <p><sub>Validation · Data Quality · Automation</sub></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <div align="left"><strong>Titanic Passenger Survival & Fare Prediction (R)</strong></div>
