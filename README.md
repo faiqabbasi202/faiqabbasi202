@@ -37,13 +37,6 @@
 
 <table width="100%">
   <tr>
-    <td width="100%" colspan="2" valign="top">
-      <strong><a href="https://github.com/faiqabbasi202/amarc">🏛️ AMARC Engineering & Construction Platform</a></strong> &nbsp;|&nbsp; <a href="https://amarc-construction.lovable.app/"><strong>🌐 Live Interactive Demo</strong></a><br><br>
-      Enterprise digital platform and bespoke 100+ KB administrative CMS for a premier Pakistani construction conglomerate. Features a cinematic client experience, audited multi-billion PKR project catalog, 9 in-house engineering disciplines, real estate developments portal, and sub-second cache invalidation across 23 database schemas.<br><br>
-      <sub>React 19 · TypeScript · Supabase (PostgreSQL / RLS) · TanStack Router · Tailwind CSS v4 · Motion · CMS Architecture</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong>Automatic ECIB Data Validation</strong><br><br>
       Validation system for ECIB data that first checks records against State Bank rules and then validates them internally against bank databases to catch missing fields, mismatched values, and inconsistent records before reporting or analysis.<br><br>
@@ -62,32 +55,36 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <strong>Diabetes Prediction Development & Deployment</strong><br><br>
+      <a href="https://github.com/faiqabbasi202/diabeties-prediction-development-deployment#readme"><strong>Diabetes Prediction Development & Deployment</strong></a><br><br>
       Production-oriented machine learning project for diabetes risk prediction, covering data preparation, model training, API serving, frontend interaction, and containerized deployment.<br><br>
       <sub>Python · FastAPI · Streamlit · MLflow · Docker</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>E-Commerce Sales Data Warehouse & Tableau Dashboard</strong><br><br>
+      <a href="https://github.com/faiqabbasi202/sales-data-warehouse-tableau#readme"><strong>E-Commerce Sales Data Warehouse & Tableau Dashboard</strong></a><br><br>
       End-to-end data warehousing project for e-commerce analytics with MySQL, star-schema modeling, ETL, and Tableau reporting.<br><br>
       <sub>MySQL · ETL · Tableau · Data Warehousing</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Ignition-Insights</strong><br><br>
+      <a href="https://github.com/faiqabbasi202/Ignition-Insights#readme"><strong>Ignition-Insights</strong></a><br><br>
       React and D3.js dashboard for coordinated multi-view car data visualization and exploratory analysis.<br><br>
       <sub>React · D3.js · Visualization</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>Bank Management System (Java)</strong><br><br>
+      <a href="https://github.com/faiqabbasi202/bank-management-system-java#readme"><strong>Bank Management System (Java)</strong></a><br><br>
       Java Swing desktop application built with OOP concepts for account creation, deposits, withdrawals, transfers, and balance inquiry.<br><br>
       <sub>Java · Swing · OOP</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Titanic Passenger Survival & Fare Prediction (R)</strong><br><br>
-      R project for survival prediction, fare prediction, and clustering using data cleaning, feature preparation, and model evaluation.
-      <br><br>
+      <a href="https://github.com/faiqabbasi202/titanic-passenger-survival-fare-prediction-r#readme"><strong>Titanic Passenger Survival & Fare Prediction (R)</strong></a><br><br>
+      R project for survival prediction, fare prediction, and clustering using data cleaning, feature preparation, and model evaluation.<br><br>
       <sub>R · Logistic Regression · Linear Regression · K-means</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/faiqabbasi202/amarc#readme"><strong>AMARC Engineering & Construction Platform</strong></a><br><br>
+      Enterprise construction platform and custom 100+ KB CMS managing multi-billion PKR project portfolios, real estate developments, and lead inquiries.<br><br>
+      <sub>React 19 · TypeScript · Supabase · Tailwind v4 · Motion</sub>
     </td>
   </tr>
 </table>
