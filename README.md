@@ -82,8 +82,8 @@
       <sub>R · Logistic Regression · Linear Regression · K-means</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/faiqabbasi202/amarc#readme"><strong>AMARC Engineering & Construction Platform</strong></a><br><br>
-      Enterprise construction platform and custom 100+ KB CMS managing multi-billion PKR project portfolios, real estate developments, and lead inquiries.<br><br>
+      <a href="https://github.com/faiqabbasi202/amarc#readme"><strong>Construction Platform & Admin CMS</strong></a><br><br>
+      Full-fledged construction web platform and custom 100+ KB Admin CMS where every section, portfolio project, service, and vacancy is dynamically configurable in real time.<br><br>
       <sub>React 19 · TypeScript · Supabase · Tailwind v4 · Motion</sub>
     </td>
   </tr>
