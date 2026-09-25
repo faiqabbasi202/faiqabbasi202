@@ -37,6 +37,13 @@
 
 <table width="100%">
   <tr>
+    <td width="100%" colspan="2" valign="top">
+      <strong><a href="https://github.com/faiqabbasi202/amarc">🏛️ AMARC Engineering & Construction Platform</a></strong> &nbsp;|&nbsp; <a href="https://amarc-construction.lovable.app/"><strong>🌐 Live Interactive Demo</strong></a><br><br>
+      Enterprise digital platform and bespoke 100+ KB administrative CMS for a premier Pakistani construction conglomerate. Features a cinematic client experience, audited multi-billion PKR project catalog, 9 in-house engineering disciplines, real estate developments portal, and sub-second cache invalidation across 23 database schemas.<br><br>
+      <sub>React 19 · TypeScript · Supabase (PostgreSQL / RLS) · TanStack Router · Tailwind CSS v4 · Motion · CMS Architecture</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong>Automatic ECIB Data Validation</strong><br><br>
       Validation system for ECIB data that first checks records against State Bank rules and then validates them internally against bank databases to catch missing fields, mismatched values, and inconsistent records before reporting or analysis.<br><br>
